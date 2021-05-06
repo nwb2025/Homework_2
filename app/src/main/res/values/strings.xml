@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountRavens</string>
+    <string name="one_more_raven">One more raven</string>
+    <string name="show_results">Show results</string>
+</resources>
